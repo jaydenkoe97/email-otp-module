@@ -1,0 +1,14 @@
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\obj\Debug\net6.0\Email-OTP-Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\obj\Debug\net6.0\Email-OTP-Module.AssemblyInfoInputs.cache
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\obj\Debug\net6.0\Email-OTP-Module.AssemblyInfo.cs
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\obj\Debug\net6.0\Email-OTP-Module.csproj.CoreCompileInputs.cache
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\bin\Debug\net6.0\Email-OTP-Module.exe
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\bin\Debug\net6.0\Email-OTP-Module.deps.json
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\bin\Debug\net6.0\Email-OTP-Module.runtimeconfig.json
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\bin\Debug\net6.0\Email-OTP-Module.dll
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\bin\Debug\net6.0\Email-OTP-Module.pdb
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\obj\Debug\net6.0\Email-OTP-Module.dll
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\obj\Debug\net6.0\refint\Email-OTP-Module.dll
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\obj\Debug\net6.0\Email-OTP-Module.pdb
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\obj\Debug\net6.0\Email-OTP-Module.genruntimeconfig.cache
+C:\Users\koech\Desktop\Capgemini\Email-OTP-Module\Email-OTP-Module\obj\Debug\net6.0\ref\Email-OTP-Module.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Email-OTP-Module", "Email-OTP-Module\Email-OTP-Module.csproj", "{6F50A37B-5359-406E-9B9F-A3B8CA6C4FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailOTPModuleTests", "EmailOTPModuleTests\EmailOTPModuleTests.csproj", "{5B8B6D7E-D13D-4F6D-B2B9-AC2DC0C04503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F50A37B-5359-406E-9B9F-A3B8CA6C4FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F50A37B-5359-406E-9B9F-A3B8CA6C4FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F50A37B-5359-406E-9B9F-A3B8CA6C4FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F50A37B-5359-406E-9B9F-A3B8CA6C4FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8B6D7E-D13D-4F6D-B2B9-AC2DC0C04503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8B6D7E-D13D-4F6D-B2B9-AC2DC0C04503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8B6D7E-D13D-4F6D-B2B9-AC2DC0C04503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8B6D7E-D13D-4F6D-B2B9-AC2DC0C04503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C5275F-CE8D-4D03-8BE9-BF807BB799DF}
+	EndGlobalSection
+EndGlobal
